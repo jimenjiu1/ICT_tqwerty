@@ -21,3 +21,4 @@ h = "Type Another Number"
 print (g * h)
 
 """
+print("Select operation.")
